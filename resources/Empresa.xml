@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><compañía>
+    <empleado id="1">
+        <nombre>iris</nombre>
+        <apellido>Seijo</apellido>
+        <apodo>Lider</apodo>
+        <salario>2222.2</salario>
+    </empleado>
+</compañía>
